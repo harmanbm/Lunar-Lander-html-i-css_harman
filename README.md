@@ -12,4 +12,6 @@ La imagen de la nave tambien esta en un div aparte. Y es una imagen gif.
 
 He puesto imagenes del menu separados para visualizar-las. (En el pdf del cliente estan en un menu boton.)
 
-RAWGIT : https://rawgit.com/harmanbm/Lunar-Lander-html-i-css_harman/master/juego.html
+RAWGIT : 
+
+
