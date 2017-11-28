@@ -1,2 +1,3 @@
 # Lunar-Lander-html-i-css_harman
-el trabajo final
+Aqui he hecho mi trabajo de hacer un juego usando lenguaje css.
+
